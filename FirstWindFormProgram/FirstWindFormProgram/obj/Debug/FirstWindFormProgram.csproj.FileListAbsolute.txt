@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\bin\Debug\FirstWindFormProgram.exe.config
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\bin\Debug\FirstWindFormProgram.exe
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\bin\Debug\FirstWindFormProgram.pdb
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.Properties.Resources.resources
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.exe
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.pdb
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.NewForm.resources
+C:\Users\user\source\repos\tangxxbo\FirstWindFormProgram\FirstWindFormProgram\FirstWindFormProgram\obj\Debug\FirstWindFormProgram.Frms.FrmUser.resources
